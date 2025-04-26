@@ -1,0 +1,6 @@
+13 Indexes, query optimization basics	1907 (Count Salary Categories)
+14	Normalization and schema design principles	602 (Friend Requests II: Who Has the Most Friends)
+15	Analyzing slow queries (EXPLAIN PLAN)	Self-study: optimize a slow query
+16	Temp tables vs CTEs, when to use what	1174 (Immediate Food Delivery)
+17	Pivoting/unpivoting data (CASE, GROUP BY tricks)	1127 (User Purchase Platform)
+18	Date functions (DATE_TRUNC, DATEADD, DATEDIFF)	550 (Game Play Analysis III)
