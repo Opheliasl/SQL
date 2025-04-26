@@ -1,0 +1,6 @@
+7	Window functions (ROW_NUMBER, RANK, DENSE_RANK)	176 (Second Highest Salary), 178 (Rank Scores)
+8	LAG, LEAD, NTILE	262 (Trips and Users)
+9	CTEs (WITH clause)	570 (Managers with at Least 5 Direct Reports)
+10	Recursive CTEs 	1097 (Game Play Analysis V)
+11 Advanced Aggregations (STDDEV, VARIANCE)	618 (Students Report by Geography)
+12	String functions (TRIM, SUBSTRING, REPLACE)	1378 (Replace Employee ID With The Unique Identifier)
